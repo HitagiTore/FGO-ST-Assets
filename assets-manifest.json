@@ -1,20 +1,20 @@
 {
   "schemaVersion": 1,
   "project": "FGO-Chaldea-UI-Assets",
-  "generatedAt": "2026-11-24T17:23:52Z",
+  "generatedAt": "2026-11-24T17:44:25Z",
   "repository": "https://github.com/HitagiTore/FGO-ST-Assets",
-  "recommendedTag": "v1.1.0",
+  "recommendedTag": "v1.2.0",
   "cdnBases": [
-    "https://cdn.jsdelivr.net/gh/HitagiTore/FGO-ST-Assets@v1.1.0/",
-    "https://testingcf.jsdelivr.net/gh/HitagiTore/FGO-ST-Assets@v1.1.0/",
-    "https://raw.githubusercontent.com/HitagiTore/FGO-ST-Assets/v1.1.0/"
+    "https://cdn.jsdelivr.net/gh/HitagiTore/FGO-ST-Assets@v1.2.0/",
+    "https://testingcf.jsdelivr.net/gh/HitagiTore/FGO-ST-Assets@v1.2.0/",
+    "https://raw.githubusercontent.com/HitagiTore/FGO-ST-Assets/v1.2.0/"
   ],
   "summary": {
-    "totalFiles": 332,
-    "imageFiles": 330,
+    "totalFiles": 337,
+    "imageFiles": 335,
     "jsonFiles": 2,
-    "totalBytes": 13890663,
-    "totalMB": 13.24
+    "totalBytes": 13930863,
+    "totalMB": 13.28
   },
   "assets": [
     {
@@ -4057,6 +4057,54 @@
       "label_zh": "icon_saint_quartz_crystal"
     },
     {
+      "id": "menu-buttons/menu_diamond_dock_party",
+      "category": "menu-buttons",
+      "path": "assets/menu-buttons/menu_diamond_dock_party.webp",
+      "mime": "image/webp",
+      "width": 200,
+      "height": 200,
+      "bytes": 7220,
+      "sha256": "74266b8a2a5e81778e141f3121456d525fced2cbec712282aaabf9b071715e66",
+      "preload": "lazy",
+      "label_zh": "menu_diamond_dock_party"
+    },
+    {
+      "id": "menu-buttons/menu_diamond_dock_servant",
+      "category": "menu-buttons",
+      "path": "assets/menu-buttons/menu_diamond_dock_servant.webp",
+      "mime": "image/webp",
+      "width": 200,
+      "height": 200,
+      "bytes": 9162,
+      "sha256": "789812a7f729bb3f855f49f82ce2f621853cf91a366cba0479cd8ba071a659fc",
+      "preload": "lazy",
+      "label_zh": "menu_diamond_dock_servant"
+    },
+    {
+      "id": "menu-buttons/menu_diamond_dock_sq",
+      "category": "menu-buttons",
+      "path": "assets/menu-buttons/menu_diamond_dock_sq.webp",
+      "mime": "image/webp",
+      "width": 200,
+      "height": 200,
+      "bytes": 7572,
+      "sha256": "ec1ed6b38292b7f2b41faf8a2f506278a1ded2898c7a404e487bac4af3e4327d",
+      "preload": "lazy",
+      "label_zh": "menu_diamond_dock_sq"
+    },
+    {
+      "id": "menu-buttons/menu_diamond_dock_support",
+      "category": "menu-buttons",
+      "path": "assets/menu-buttons/menu_diamond_dock_support.webp",
+      "mime": "image/webp",
+      "width": 200,
+      "height": 200,
+      "bytes": 8096,
+      "sha256": "7276a9baf895118afc8b4b733ed96475152c4c1823587830f4a3b15ca6ac3075",
+      "preload": "lazy",
+      "label_zh": "menu_diamond_dock_support"
+    },
+    {
       "id": "menu-buttons/menu_diamond_enhance",
       "category": "menu-buttons",
       "path": "assets/menu-buttons/menu_diamond_enhance.webp",
@@ -4115,6 +4163,18 @@
       "sha256": "8c823b79622624c90f089447c10aafb8496737021e30b468232a49b275b80881",
       "preload": "lazy",
       "label_zh": "menu_diamond_myroom"
+    },
+    {
+      "id": "menu-buttons/menu_diamond_settings",
+      "category": "menu-buttons",
+      "path": "assets/menu-buttons/menu_diamond_settings.webp",
+      "mime": "image/webp",
+      "width": 200,
+      "height": 200,
+      "bytes": 8150,
+      "sha256": "4e30ffd27f5558663cd32cb65ca1127ae421fb2441ee065dcc13ae645cd4122c",
+      "preload": "lazy",
+      "label_zh": "menu_diamond_settings"
     },
     {
       "id": "menu-buttons/menu_diamond_shop",
